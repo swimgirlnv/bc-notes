@@ -10,7 +10,7 @@
       <div className="App">
         <div className="page-content">
         <div className="item1" id="top">
-          <h1>Deep Learning Notes</h1>
+          <h1 className="header">Blockchains Notes</h1>
         </div>
         <div className="lecture-table">
           <LectureTable></LectureTable>
