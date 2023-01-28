@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "dlnotes-724a4"
-  }
+    "default": "bc-notes-cbad1",
+    "bcnotes": "bc-notes-cbad1"
+  },
+  "targets": {},
+  "etags": {}
 }
