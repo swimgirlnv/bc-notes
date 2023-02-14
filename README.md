@@ -1,12 +1,6 @@
-# because i hate notion
-
-some helpful links for mathy stuff
-https://sites.psu.edu/symbolcodes/codehtml/
-https://www.toptal.com/designers/htmlarrows/math/
-https://www.htmlsymbols.xyz/unicode?page=8
 
 
-# Once you finish a lecture!
+# Added something? Push to firebase!!
 1. git add -A
 2. git commit -m "lecture x done"
 3. git push

@@ -1,23 +1,28 @@
 .App {
   text-align: center;
+  background: #130113;
+  height: 100vh;
 }
 
-.button {
-  background-color: white;
-  color: rgb(30, 30, 30);
-  border: none;
-  padding: 10px;
-  font-size: 16px;
-  cursor: pointer;
-  border-radius: 15px;
+.checkbox {
+  padding: 15px;
 }
 
-.lecture-table {
-  display: flex;
-  justify-content: center;
+.MovieCard {
+  background-color: #a1fff8;
+  box-shadow: 0 0 7px #509fff, 0 0 32px #0cf;
+  border-radius: 8px;
+
 }
 
 .header {
+  padding: 20px;
   color: #ff90f4;
   text-shadow: 0 0 7px #ff14bc, 0 0 32px #f100ff;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }

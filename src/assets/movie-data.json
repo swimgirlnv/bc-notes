@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Robin Hood: Men In Tights",
+    "description": "Adventure comedy parody of the Robin Hood story. Has the one guy from Princess Bride!!",
+    "link": "https://www.google.com/search?q=robin+hood+men+in+tights&rlz=1C5CHFA_enUS710US710&oq=robin+hood+men&aqs=chrome.0.0i355i512j46i512j69i57j0i512l7.2685j0j9&sourceid=chrome&ie=UTF-8",
+    "type": "comedy"
+  },
+  {
+    "name": "Spaceballs",
+    "description": "Parody of Star Wars. Need I say more?",
+    "link": "https://www.google.com/search?q=space+balls&rlz=1C5CHFA_enUS710US710&oq=space+balls&aqs=chrome..69i57j46i10i433i512j46i175i199i512j0i131i433i512j0i10i512j0i512l2j0i10i512l2.2579j0j9&sourceid=chrome&ie=UTF-8",
+    "type": "comedy"
+  },
+  {
+    "name": "Blazing Saddles",
+    "description": "It gets meta. Absolutely ridiculous.",
+    "link": "https://www.google.com/search?q=blazing+saddles&rlz=1C5CHFA_enUS710US710&oq=blazing+s&aqs=chrome.0.0i355i433i512j46i433i512j46i175i199i512j69i57j46i131i433i512j0i433i512j0i131i433i512j46i175i199i512j0i433i512l2.3225j0j9&sourceid=chrome&ie=UTF-8",
+    "type": "comedy"
+  },
+  {
+    "name": "Young Frankenstein",
+    "description": "Not the best on the list, but still funny and classic Mel Brooks!",
+    "link": "https://www.google.com/search?q=young+frankenstein&rlz=1C5CHFA_enUS710US710&ei=oTXrY_DQBpPj5NoP0a64qAk&gs_ssp=eJzj4tTP1TcwsjRMzjZg9BKqzC_NS1dIK0rMy07NKy5JzcwDAJMOCmA&oq=you&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgQILhBDMgQIABBDMhEILhCABBCxAxCDARDHARDRAzIECAAQQzIECAAQQzIICC4QsQMQgwEyBAgAEEMyBAgAEEMyCwguEIAEELEDEIMBMggILhCABBCxAzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToMCC4QyAMQsAMQQxgCOhEILhCDARDHARCxAxDRAxCABDoLCAAQgAQQsQMQgwE6BwguELEDEEM6BwguENQCEEM6DAguEOoCELQCEEMYAzoMCAAQ6gIQtAIQQxgDOg8ILhDUAhDqAhC0AhBDGAM6DQguEI8BEOoCELQCGAQ6DQgAEI8BEOoCELQCGARKBAhBGABKBAhGGAFQmgxYyThgtkRoB3ABeACAAY4BiAHRA5IBAzMuMpgBAKABAbABFMgBE8ABAdoBBggBEAEYCdoBBggCEAEYCNoBBAgDGAfaAQYIBBABGAo&sclient=gws-wiz-serp",
+    "type": "comedy"
+  },
+  {
+    "name": "Iron Man 2",
+    "description": "First one is phenomenal, and Becca hasn't watched the second one and needs to be cultured.",
+    "link": "https://www.google.com/search?q=iron+man+2&rlz=1C5CHFA_enUS710US710&oq=iron+man+2&aqs=chrome.0.0i271j46i433i512j0i512j46i433i512j0i512j0i10i131i433i512j0i512j46i512j0i512j46i512.1694j0j4&sourceid=chrome&ie=UTF-8",
+    "type": "action"
+  }
+]
+
